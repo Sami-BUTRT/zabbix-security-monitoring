@@ -1,0 +1,41 @@
+# ============================================================
+# Clés SSH privées
+# ============================================================
+*.pem
+*.key
+id_rsa
+id_ed25519
+id_ecdsa
+*.ppk
+
+# ============================================================
+# Fichiers de logs Linux
+# ============================================================
+*.log
+var/log/
+logs/
+log/
+
+# ============================================================
+# Fichiers de configuration avec mots de passe de base de données
+# ============================================================
+# Fichiers de configuration réels (les modèles .example/.template restent versionnés)
+zabbix.conf.php
+zabbix_server.conf
+*.conf.php
+*db_config*
+*database.conf*
+*db.conf*
+.env
+.env.*
+secrets.yml
+secrets.yaml
+
+# ============================================================
+# Fichiers système / éditeurs
+# ============================================================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
