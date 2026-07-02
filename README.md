@@ -402,3 +402,9 @@ L'installation du serveur, la configuration des agents, l'ajout des hôtes et la
 L'intérêt principal de cette solution est de rendre l'état du réseau plus visible. Sans supervision, un incident peut rester invisible jusqu'à ce qu'il provoque une panne ou une dégradation importante du service. Avec Zabbix, les anomalies peuvent être détectées plus tôt, analysées plus facilement et traitées plus rapidement.
 
 Cette mise en place constitue une base solide pour aller plus loin vers une supervision orientée sécurité, avec des alertes sur les connexions SSH, les fichiers sensibles, les services critiques et les comportements réseau inhabituels.
+
+---
+
+## Auteur
+
+Auteur: Sami Hameg 
